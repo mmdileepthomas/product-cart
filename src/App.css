@@ -1,0 +1,18 @@
+*{
+  font-family: cursive;
+}
+.full-container{
+  padding: 0 37px;
+}
+.product-container{
+  width: 53%;
+}
+.parent-container{
+  display: flex;
+  justify-content: space-between;
+}
+.parent-checkout-container{
+  border: 1px solid black;
+  width: 26%;
+  text-align: center;
+}
